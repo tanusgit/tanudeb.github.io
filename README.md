@@ -1,13 +1,10 @@
 ## Tanu Deb
+I am a 3rd year computer science student at San Jose State University. I love to code. I like to build website. In my past time I practice coding. 
 
-You can use the [editor on GitHub](https://github.com/tanusgit/tanudeb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I know HTML,CSS, Java. 
 ```markdown
 Syntax highlighted code block
 
