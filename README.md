@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tanu Deb
 
 You can use the [editor on GitHub](https://github.com/tanusgit/tanudeb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
